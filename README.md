@@ -1,5 +1,5 @@
 
-Sales Data Analysis and Forecasting Dashboard
+# Sales Data Analysis and Forecasting Dashboard
 
 This project analyzes sales data and predicts future sales using machine learning and interactive dashboards.
 
